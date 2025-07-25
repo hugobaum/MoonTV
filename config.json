@@ -84,6 +84,36 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "sdzy": {
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "name": "SD资源",
+      "detail": "https://sdzyapi.com"
+    },
+    "qilin": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod/",
+      "name": "麒麟资源",
+      "detail": "https://www.qilinzyz.com"
+    },
+    "tiankong": {
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "name": "天空资源",
+      "detail": "https://api.tiankongapi.com"
+    },
+    "lehoo": {
+      "api": "https://lehootv.com/api.php/provide/vod",
+      "name": "Lehoo TV",
+      "detail": "https://lehootv.com"
+    },
+    "kuu": {
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/",
+      "name": "蓝光云",
+      "detail": "https://kuu.renrenmi.cc"
+    },
+    "mgtvone": {
+      "api": "https://mgtv.one/api.php/provide/vod/",
+      "name": "猫蓝光",
+      "detail": "https://mgtv.one"
     }
   }
 }
