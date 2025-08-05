@@ -114,6 +114,10 @@
       "api": "https://mgtv.one/api.php/provide/vod/",
       "name": "猫蓝光",
       "detail": "https://mgtv.one"
-    }
+    },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼"
+    },
   }
 }
