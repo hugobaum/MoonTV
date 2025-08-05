@@ -119,5 +119,29 @@
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼"
     },
+    "hhzy": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
+    "kczy": {
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
+      "name": "快车资源"
+    },
+    "hh": {
+      "api": "https://cj.huohua.live/api.php/provide/vod",
+      "name": "花火"
+    },
+    "jyzy": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰"
+    },
+    "hy": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙"
+    },
+    "hn": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛"
+    },
   }
 }
